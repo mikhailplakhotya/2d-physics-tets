@@ -1,4 +1,4 @@
-# deceus
+# Test 2d Canvas
 
 ## Project setup
 ```
